@@ -1,0 +1,4 @@
+Version: 1.1.1
+  - Made this website 
+  - Updated Bootstrap to version 5.2.2
+  - Updated all outdated third party vendor libraries to their latest versions
